@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Krrish105/URL-Shortening-API-Landing-Page](https://github.com/Krrish105/URL-Shortening-API-Landing-Page)
+- Solution URL: [https://github.com/Sid0347/URL-Shortening-landing-page.git)
 - Live Site URL: [https://krrish105.github.io/URL-Shortening-API-Landing-Page/](https://krrish105.github.io/URL-Shortening-API-Landing-Page/)
 
 ## My process
